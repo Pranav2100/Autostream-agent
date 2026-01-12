@@ -1,12 +1,12 @@
 {
   "pricing": {
     "Basic Plan": {
-      "price": "$29/month",
+      "price": "INR 3000/month",
       "videos": "10 videos/month",
       "resolution": "720p"
     },
     "Pro Plan": {
-      "price": "$79/month",
+      "price": "INR 7000/month",
       "videos": "Unlimited",
       "resolution": "4K",
       "features": ["AI captions"]
