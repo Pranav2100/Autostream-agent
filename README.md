@@ -3,6 +3,7 @@
 Prerequisites
 
 Python 3.9+ (recommended: Python 3.11)
+(Tested and supported on Python 3.11)
 
 Git 
 
