@@ -111,6 +111,3 @@ This architecture keeps agent logic channel-agnostic and scalable.
 **Pranav Jagtap** — AI/ML Engineer
 [GitHub](https://github.com/Pranav2100) ·
 [LinkedIn](https://linkedin.com/in/pranav--jagtap)
-**Pranav Jagtap** — AI/ML Engineer
-[GitHub](https://github.com/Pranav2100) ·
-[LinkedIn](https://linkedin.com/in/pranav--jagtap)
